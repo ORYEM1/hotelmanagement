@@ -1,0 +1,15 @@
+#page_footer
+{
+    min-height: 100px;
+    background: #ccc;
+    width: 1600px;
+    margin: auto;
+    position: relative;
+    clear: both;
+    margin-top: -12px;
+    color: #333;
+    font-size: 90%;
+    border-radius: 0 0 5px 5px;
+    line-height: 100px ;
+    text-align: center;
+}
